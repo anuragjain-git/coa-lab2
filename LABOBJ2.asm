@@ -1,0 +1,6 @@
+;Anurag jain, 2141010002
+
+MOV AL,[5000H]
+NOT AL
+ADD AL,01
+MOV [5001H],AL
